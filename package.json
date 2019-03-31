@@ -1,7 +1,7 @@
 {
   "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "Front-end boilerplate for react projects",
+  "description": "Front-end Boilerplate for React Project",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --env=development",

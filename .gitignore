@@ -65,3 +65,6 @@ typings/
 
 # public
 public/js
+
+# OSX
+.DS_Store
