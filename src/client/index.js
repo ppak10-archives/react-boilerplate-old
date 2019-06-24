@@ -8,8 +8,7 @@ import React from 'react';
 import {render} from 'react-dom';
 
 // Style
-// eslint-disable-next-line no-unused-vars
-import * as Style from './style';
+import './style';
 
 // App
 import {App} from './components/App';

@@ -3,8 +3,9 @@
  * Entry file for styling
  */
 
-// Node Modules
-import 'bootstrap'; // Imports bootstrap's javascript https://getbootstrap.com/docs/4.0/getting-started/javascript/
+// Bootstrap
+import 'bootstrap'; // Imports bootstrap's javascript
+import 'bootstrap/dist/css/bootstrap.min.css'; // Import bootstrap's css
 
-// SCSS Styles
-import './stylesheets/main.scss';
+// Less
+import './stylesheets/main.less';
