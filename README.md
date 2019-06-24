@@ -11,7 +11,7 @@ Includes:
   * Development
   * Production
 * Style Preprocessors
-  * Sass
+  * Less
 * Linters
   * eslint
   * stylelint
